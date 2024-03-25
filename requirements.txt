@@ -1,0 +1,12 @@
+python3-pyqt5
+python3-pyqtgraph
+python3-numpy
+python3-plotly
+python3-mathgl
+python3-pyqt5.qtquick
+qml-module-qtquick-controls
+qml-module-qtquick-controls2
+qml-module-qtquick-extras
+qml-module-qtquick-extras-private
+qml-module-qtquick-controls-styles
+qml-module-qtqml
